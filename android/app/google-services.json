@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798607525081",
+    "project_id": "dhyaan-118ca",
+    "storage_bucket": "dhyaan-118ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798607525081:android:66c68c133cbc4777eaaac8",
+        "android_client_info": {
+          "package_name": "com.example.dhyann"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798607525081-9k8vi9l4s13vs7alcvukq7vv7uif1cpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhyann",
+            "certificate_hash": "bc36e531d3a0d3ae838263e2dc122eca6693a636"
+          }
+        },
+        {
+          "client_id": "798607525081-3l06017druck9cgd7c5137bhp4nh5ckl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITLhi8fEiMcTevw1cJmff03tKRVM3pv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798607525081-3l06017druck9cgd7c5137bhp4nh5ckl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
